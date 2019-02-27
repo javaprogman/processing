@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5560800f-ea67-4a39-8308-bc94e94f6ad8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/javaprogman/Lambda/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/javaprogman/Thread/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/javaprogman/Thread/SimpleClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/javaprogman/Thread/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/javaprogman/Thread/TalkThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/javaprogman/Thread/WalkRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/javaprogman/processing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/javaprogman/processing/paymentInstrument/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/javaprogman/processing/paymentInstrument/PaymentInstrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/javaprogman/processing/person/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/javaprogman/processing/person/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/javaprogman/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/javaprogman/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="13" />
     <option name="width" value="876" />
@@ -204,7 +190,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551291225023" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551291903052" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -303,15 +289,15 @@
       <updated>1551032236414</updated>
       <workItem from="1551032241470" duration="2245000" />
       <workItem from="1551200818415" duration="4429000" />
-      <workItem from="1551287006092" duration="3834000" />
+      <workItem from="1551287006092" duration="4424000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10508000" />
+    <option name="totallyTimeSpent" value="11098000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1940874" />
